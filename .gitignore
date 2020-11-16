@@ -1,1 +1,4 @@
 /output/*
+config.wyam.hash
+config.wyam.packages.xml
+*.dll
