@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://www.potatis.nu/</id>
+	<title>Potatis och recept</title>
+	<link rel="self" href="http://www.potatis.nu/" />
+	<rights>2020</rights>
+	<updated>2020-11-17T14:59:58Z</updated>
+</feed>
