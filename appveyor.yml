@@ -32,7 +32,7 @@ on_success:
   - ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
   - git checkout az-prod
   - git rm -rf .
-  - git checkout HEAD -- '.github/workflows/azure-static-web-apps-wonderful-cliff-0910a0003.yml'
+  - git checkout HEAD -- .github/workflows/azure-static-web-apps-wonderful-cliff-0910a0003.yml
   - xcopy ..\output . /E
   # EDIT your domain name or remove if not using a custom domain
   - echo www.potatis.nu > CNAME

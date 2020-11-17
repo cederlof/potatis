@@ -1,3 +1,3 @@
-Title: Potatis och recept
+Title: Potatisgratäng och andra recept
 ---
-Hej.
+Se ingredienserna till [Tinas potatisgratäng]("/recept/tinas-potatisgratang")!
